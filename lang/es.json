@@ -1,0 +1,103 @@
+{
+  "meta": { "lang": "es" },
+
+  "sticky_cta": "Descargar App aquí",
+
+  "nav": {
+    "home": "Inicio",
+    "why": "Por qué MiChofer",
+    "services": "Servicios",
+    "how": "Cómo funciona",
+    "gallery": "Galería",
+    "download": "Descarga",
+    "contact": "Contacto"
+  },
+
+  "mobile": {
+    "title": "Menú"
+  },
+
+  "hero": {
+    "pill": "<i class=\"fa-solid fa-bolt\"></i> Servicio premium en El Salvador",
+    "title": "MiChofer.sv es tu chofer",
+    "subtitle": "Viaja con seguridad, puntualidad y comodidad. Reserva desde la App y disfruta un servicio premium.",
+    "cta_download": "<i class=\"fa-solid fa-download\"></i> Descargar App",
+    "cta_services": "<i class=\"fa-solid fa-car\"></i> Ver servicios",
+    "badge1": "<i class=\"fa-solid fa-shield-halved\"></i><span>Choferes verificados</span>",
+    "badge2": "<i class=\"fa-solid fa-clock\"></i><span>Reservas rápidas</span>",
+    "badge3": "<i class=\"fa-solid fa-star\"></i><span>Experiencia VIP</span>",
+    "mini_title": "Rutas a tu medida",
+    "mini_sub": "One way • VIP • Outstation"
+  },
+
+  "stats": {
+    "s1": "Atención personalizada",
+    "s2": "Reservas y coordinación",
+    "s3": "Viajes por hora",
+    "s4": "Chofer dedicado"
+  },
+
+  "why": {
+    "title": "¿Por qué usar MiChofer?",
+    "lead": "No es solo transporte: es una experiencia segura, cómoda y personalizada para tus recorridos diarios o viajes especiales.",
+    "c1t": "Choferes profesionales",
+    "c1d": "Verificación y capacitación continua.",
+    "c2t": "Vehículos modernos",
+    "c2d": "Comodidad, limpieza y excelente estado.",
+    "c3t": "Viajes a tu medida",
+    "c3d": "One way, Outstation o por hora.",
+    "c4t": "Soporte y coordinación",
+    "c4d": "Comunicación clara y rápida."
+  },
+
+  "services": {
+    "title": "Nuestros servicios",
+    "oneway": "Viajes express de punto “A” a punto “B”.",
+    "outstation": "Viajes fuera de la zona regular.",
+    "vip": "Vehículo y chofer por hora.",
+    "michofer": "Chofer a tu disposición por reservación.",
+    "more": "Conoce más <i class=\"fa-solid fa-arrow-right\"></i>",
+    "rent_title": "Renta de vehículos",
+    "rent_desc": "Reservas digitales: todo desde la App. Alquila de forma segura y rápida.",
+    "apply": "<i class=\"fa-solid fa-paper-plane\"></i> Aplica ahora"
+  },
+
+  "how": {
+    "title": "Cómo funciona",
+    "lead": "En 3 pasos, reserva y listo.",
+    "s1t": "Elige el servicio",
+    "s1d": "Selecciona tu modalidad.",
+    "s2t": "Reserva desde la App",
+    "s2d": "Fecha/hora y ubicación.",
+    "s3t": "Disfruta el viaje",
+    "s3d": "Servicio premium."
+  },
+
+  "gallery": {
+    "title": "Galería",
+    "lead": "Luego reemplazas estas imágenes por las finales."
+  },
+
+  "download": {
+    "title": "Descarga MiChofer",
+    "lead": "Reserva tu servicio y vive una nueva forma de movilizarte.",
+    "muted": "Tu chofer a un toque"
+  },
+
+  "contact": {
+    "title": "Contáctanos",
+    "addr": "Dirección de MiChofer",
+    "phone": "Teléfono",
+    "hours": "Lunes - Martes : 8:00 AM - 9:00 PM",
+    "form_name": "Tu nombre",
+    "form_email": "Tu correo",
+    "form_message": "Tu mensaje",
+    "send": "Enviar"
+  },
+
+  "footer": {
+    "copy": "© 2025 MiChoferSV",
+    "privacy": "Privacy policy",
+    "refund": "Refund policy"
+  }
+}

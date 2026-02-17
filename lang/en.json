@@ -1,0 +1,103 @@
+{
+  "meta": { "lang": "en" },
+
+  "sticky_cta": "Download the App here",
+
+  "nav": {
+    "home": "Home",
+    "why": "Why MiChofer",
+    "services": "Services",
+    "how": "How it works",
+    "gallery": "Gallery",
+    "download": "Download",
+    "contact": "Contact"
+  },
+
+  "mobile": {
+    "title": "Menu"
+  },
+
+  "hero": {
+    "pill": "<i class=\"fa-solid fa-bolt\"></i> Premium service in El Salvador",
+    "title": "MiChofer.sv is your driver",
+    "subtitle": "Travel safely, on time, and comfortably. Book from the App and enjoy a premium service.",
+    "cta_download": "<i class=\"fa-solid fa-download\"></i> Download App",
+    "cta_services": "<i class=\"fa-solid fa-car\"></i> View services",
+    "badge1": "<i class=\"fa-solid fa-shield-halved\"></i><span>Verified drivers</span>",
+    "badge2": "<i class=\"fa-solid fa-clock\"></i><span>Fast bookings</span>",
+    "badge3": "<i class=\"fa-solid fa-star\"></i><span>VIP experience</span>",
+    "mini_title": "Routes tailored to you",
+    "mini_sub": "One way • VIP • Outstation"
+  },
+
+  "stats": {
+    "s1": "Personalized service",
+    "s2": "Bookings & coordination",
+    "s3": "Hourly rides",
+    "s4": "Dedicated driver"
+  },
+
+  "why": {
+    "title": "Why use MiChofer?",
+    "lead": "It’s not just transportation: it’s a safe, comfortable, and personalized experience for daily rides or special trips.",
+    "c1t": "Professional drivers",
+    "c1d": "Background checks and ongoing training.",
+    "c2t": "Modern vehicles",
+    "c2d": "Comfort, cleanliness, and excellent condition.",
+    "c3t": "Rides your way",
+    "c3d": "One way, Outstation, or hourly.",
+    "c4t": "Support & coordination",
+    "c4d": "Clear, fast communication."
+  },
+
+  "services": {
+    "title": "Our services",
+    "oneway": "Express rides from point “A” to point “B”.",
+    "outstation": "Trips outside the regular service area.",
+    "vip": "Vehicle and driver by the hour.",
+    "michofer": "Driver at your service by reservation.",
+    "more": "Learn more <i class=\"fa-solid fa-arrow-right\"></i>",
+    "rent_title": "Car rental",
+    "rent_desc": "Digital reservations: everything from the App. Rent safely and quickly.",
+    "apply": "<i class=\"fa-solid fa-paper-plane\"></i> Apply now"
+  },
+
+  "how": {
+    "title": "How it works",
+    "lead": "Book in 3 steps.",
+    "s1t": "Choose a service",
+    "s1d": "Pick the option that fits you.",
+    "s2t": "Book in the App",
+    "s2d": "Select date/time and location.",
+    "s3t": "Enjoy the ride",
+    "s3d": "Premium service."
+  },
+
+  "gallery": {
+    "title": "Gallery",
+    "lead": "You can replace these images later."
+  },
+
+  "download": {
+    "title": "Download MiChofer",
+    "lead": "Book your service and experience a new way to move.",
+    "muted": "Your driver in one tap"
+  },
+
+  "contact": {
+    "title": "Contact us",
+    "addr": "MiChofer address",
+    "phone": "Phone",
+    "hours": "Monday - Tuesday: 8:00 AM - 9:00 PM",
+    "form_name": "Your name",
+    "form_email": "Your email",
+    "form_message": "Your message",
+    "send": "Send"
+  },
+
+  "footer": {
+    "copy": "© 2025 MiChoferSV",
+    "privacy": "Privacy policy",
+    "refund": "Refund policy"
+  }
+}
