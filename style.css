@@ -517,7 +517,7 @@ section { padding: 92px 0; }
   top: 0;
   right: -110%;
   width: min(360px, 88vw);
-  height: 100vh;
+  height: 100%;
   background: #fff;
   z-index: 4501;
   box-shadow: -12px 0 40px rgba(0,0,0,.22);
@@ -589,3 +589,4 @@ section { padding: 92px 0; }
 @media (max-width: 560px){
   .gallery-grid{ grid-template-columns: 1fr; }
 }
+
