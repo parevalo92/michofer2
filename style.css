@@ -585,9 +585,14 @@ section { padding: 92px 0; }
 @media (max-width: 900px){
   .nav-menu-desktop{ display:none; }
   #menu-open{ display:grid; }
+
+  .boton-fijo {
+    display: none;
+  }
+  .logoimg {
+    width: 80px;
+  }
 }
 @media (max-width: 560px){
   .gallery-grid{ grid-template-columns: 1fr; }
 }
-
-
