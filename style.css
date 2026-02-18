@@ -114,6 +114,8 @@ section { padding: 92px 0; }
 .langimg{ width:38px; height:38px; border-radius:999px; object-fit:cover; }
 
 /* Icon buttons */
+
+
 .icon-btn{
   width: 44px;
   height: 44px;
@@ -153,7 +155,7 @@ section { padding: 92px 0; }
 /* HERO + Parallax */
 .hero-section{
   position: relative;
-  padding-top: 150px;
+  padding-top: 170px;
   overflow: hidden;
   background: radial-gradient(1200px 600px at 15% 10%, rgba(74,110,245,.18), transparent 55%),
               radial-gradient(900px 500px at 85% 15%, rgba(85,117,161,.20), transparent 50%),
@@ -584,7 +586,9 @@ section { padding: 92px 0; }
 
 @media (max-width: 900px){
   .nav-menu-desktop{ display:none; }
-  #menu-open{ display:grid; }
+  #menu-open{ 
+    display:grid;
+  }
 
   .boton-fijo {
     display: none;
